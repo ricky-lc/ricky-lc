@@ -63,8 +63,7 @@ Here's a glimpse into the technologies I'm proficient in:
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through:
 
 * **GitHub:** \(https://github.com/ricky-lc)
-* **Instagram:** \(https://www.instagram.com/riccardolucio.costa)
-* **Website:** \(coming soon)
+* Contact me via GitHub, I'll be happy to answer.
 
 ## ⚡ Fun Facts
 
