@@ -13,7 +13,7 @@ Here's a glimpse into the technologies I'm proficient in:
 
 ### Programming Languages
 * **Python:** Specific frameworks and libraries include Django, Flask, NumPy, Pandas, SciPy.
-* **C++:**
+* **C++**
 * **JavaScript:** Specific frameworks such as Node.js
 
 ### Front-End Development
